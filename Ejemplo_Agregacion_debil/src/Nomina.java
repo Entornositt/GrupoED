@@ -14,6 +14,11 @@ public class Nomina {
 	public double getSueldo() {
 		return sueldo;
 	}
+	
+	public void setSueldo() {
+		this.sueldo = sueldo;
+	}
+	
 	public Empleado getTrabajador() {
 		return trabajador;
 	}
