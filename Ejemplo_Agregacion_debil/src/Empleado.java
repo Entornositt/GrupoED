@@ -22,6 +22,9 @@ public class Empleado {
 	public void setTelefono(String telefono) {
 		this.telefono = telefono;
 	}
+	public void setTelefono2(String telefono) {
+		this.telefono = telefono;
+	}
 
 	public String getDepartamento() {
 		return departamento;
